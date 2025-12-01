@@ -1,4 +1,3 @@
-import logo from '../../assets/Inatel Branco.png';
 
 
 export default function Footer() {
@@ -8,7 +7,7 @@ export default function Footer() {
         <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
           <div>
             <div className="flex items-center gap-3 mb-4">
-              <img src={logo} alt="Inatel" className="h-12 w-auto" />
+            <img src="/assets/Inatel Branco.png" alt="Inatel" className="h-12 w-auto" />
               <div>
                 <p className="text-xs text-blue-200">Intercâmbio Internacional</p>
               </div>
