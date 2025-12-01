@@ -6,7 +6,7 @@ export const universities = [
     language: "Inglês/Alemão",
     area: "Engenharia",
     deadline: "15/03/2025",
-    image: "/assets/TUM.jpg", // ← Logo adicionada
+    image: "public/assets/TUM.jpg", // ← Logo adicionada
     description: "A TUM é uma das universidades mais prestigiadas da Europa, oferecendo programas de excelência em engenharia e tecnologia. O intercâmbio permite acesso a laboratórios de ponta e networking internacional.",
     requirements: [
       "Histórico escolar com CR mínimo 7.0",
@@ -27,7 +27,7 @@ export const universities = [
     language: "Espanhol/Inglês",
     area: "Telecomunicações",
     deadline: "30/03/2025",
-    image: "/assets/MADRI.png", // ← Logo adicionada
+    image: "public/assets/MADRI.png", // ← Logo adicionada
     description: "A UPM é referência em telecomunicações e engenharia na Europa. Oferece ambiente multicultural e programas integrados com o mercado europeu de tecnologia.",
     requirements: [
       "Histórico escolar com CR mínimo 6.5",
@@ -47,7 +47,7 @@ export const universities = [
     language: "Inglês/Coreano",
     area: "Engenharia",
     deadline: "10/04/2025",
-    image: "/assets/KAIST_logo.png", // ← Logo adicionada
+    image: "public/assets/KAIST_logo.png", // ← Logo adicionada
     description: "KAIST é líder em pesquisa e desenvolvimento tecnológico na Ásia. Oferece infraestrutura moderna e colaboração com empresas como Samsung e LG.",
     requirements: [
       "Histórico escolar com CR mínimo 7.0",
@@ -68,7 +68,7 @@ export const universities = [
     language: "Inglês",
     area: "Computação",
     deadline: "05/03/2025",
-    image: "/assets/toronto.png", // ← Logo adicionada
+    image: "public/assets/toronto.png", // ← Logo adicionada
     description: "U of T é a maior e mais diversa universidade canadense, com forte presença em AI e machine learning. Toronto oferece ambiente multicultural vibrante.",
     requirements: [
       "Histórico escolar com CR mínimo 7.0",
@@ -88,7 +88,7 @@ export const universities = [
     language: "Inglês",
     area: "Engenharia",
     deadline: "15/04/2025",
-    image: "/assets/NUS.png", // ← Logo adicionada
+    image: "public/assets/NUS.png", // ← Logo adicionada
     description: "NUS é a universidade líder da Ásia, oferecendo programas inovadores e conexões com o ecossistema de startups de Singapura.",
     requirements: [
       "Histórico escolar com CR mínimo 7.5",
@@ -108,7 +108,7 @@ export const universities = [
     language: "Inglês",
     area: "Telecomunicações",
     deadline: "25/03/2025",
-    image: "/assets/MELBOURNE.jpg", // ← Logo adicionada
+    image: "public/assets/MELBOURNE.jpg", // ← Logo adicionada
     description: "A University of Melbourne combina excelência acadêmica com qualidade de vida excepcional. Forte em pesquisa aplicada e parcerias industriais.",
     requirements: [
       "Histórico escolar com CR mínimo 7.0",
